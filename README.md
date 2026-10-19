@@ -10,8 +10,6 @@
 [![Assets: CC BY-NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-2F80ED.svg)](NOTICE.md)
 [![Model: Qwen-Image 2.1](https://img.shields.io/badge/model-Qwen--Image%202.1-2F80ED.svg)](#技术架构云端负责理解本地负责生产)
 
-<img src="assets/case-key-visual.webp" width="300" align="right" alt="山小路 主视觉">
-
 ---
 
 ## 它解决什么问题
@@ -24,6 +22,10 @@
 | 算力成本 | 按次计费的在线服务，一整套资产试错几十次就烧完了 |
 | 角色一致性 | 换个场景、换个动作，同一角色就「不像了」 |
 | 产出不稳定 | 没有审核节点，一次生成全身，返工全靠运气 |
+
+<p align="center">
+  <img src="assets/case-key-visual.webp" width="320" alt="山小路 · 主视觉（社区 IP 案例）">
+</p>
 
 目标读者是**不具备大规模 AI 或手工设计能力的个人与基层团队**：基层文旅、社区党建与活动宣传、中小学宣传栏和校园文化活动。
 
