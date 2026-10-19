@@ -1,0 +1,16 @@
+# 本地生成产物
+output/
+*.mp4
+*.mov
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / 日志
+.vscode/
+.idea/
+*.log
+node_modules/
+__pycache__/

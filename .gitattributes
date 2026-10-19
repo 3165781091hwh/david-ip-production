@@ -1,0 +1,8 @@
+# 统一换行，避免 Windows/Unix 混提交
+* text=auto eol=lf
+
+# 二进制
+*.webp binary
+*.png binary
+*.jpg binary
+*.pdf binary
