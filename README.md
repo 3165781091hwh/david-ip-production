@@ -134,9 +134,17 @@ git clone <this-repo> david-ip-production
 
 <img src="assets/merch.webp" alt="文创概念图">
 
-**视频素材（绿幕，人物居中，可直接叠进实拍）**
+**视频素材与落地（绿幕素材 → 场景成片 → 实景合成）**
 
-<img src="assets/green-screen.webp" alt="绿幕视频素材">
+<table>
+<tr>
+<td width="19%" align="center" valign="middle"><img src="assets/video-01-green-screen.webp" alt="绿幕视频素材"><br><sub>① 绿幕素材</sub></td>
+<td width="57%" align="center" valign="middle"><img src="assets/video-02-scene.webp" alt="图生视频场景成片"><br><sub>② 场景成片</sub></td>
+<td width="24%" align="center" valign="middle"><img src="assets/video-03-ar.webp" alt="实景合成"><br><sub>③ 实景合成</sub></td>
+</tr>
+</table>
+
+绿幕素材要求人物始终居中、除角色与必要道具外无其他元素，因此可以直接叠进实拍；需要纯 AI 镜头时，用三视图驱动图生视频直接出成片。上图最右一张即绿幕素材叠进夜景实拍、再压上对白字幕的效果——社区 IP 由此从「一张图」变成「在身边陪着走的东西」。
 
 同一套 Skill 换一个角色（某中学的校园吉祥物）也能在一小时内跑出表情包、海报与视频素材——**资产链是通用的，换的只是三视图**。
 
