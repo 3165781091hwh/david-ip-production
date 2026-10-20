@@ -5,6 +5,7 @@
 > Cloud model thinks, local model draws. Built and battle-tested on a low-cost laptop GPU.
 
 **一句话**：把「一个 IP 从零到全套视觉资产」的工序，封装成一句指令就能跑的 Agent Skill，并用三视图把角色形象锁死。
+<span style="color: gray;">山东大学 王岑（指导教师） 韩苇航 王钟毓 周大炜 曾乐 赵填塬 李若荃</span>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-2F80ED.svg)](LICENSE)
 [![Assets: CC BY-NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-2F80ED.svg)](NOTICE.md)
