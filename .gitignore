@@ -3,6 +3,16 @@ output/
 *.mp4
 *.mov
 
+# 本地配置（本地生图手册路径等，因人而异，不入库）
+config.local.md
+
+# 本地字体（商用授权与体积均因人而异，不入库）
+fonts/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
 # 系统
 .DS_Store
 Thumbs.db
