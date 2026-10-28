@@ -89,7 +89,7 @@ metadata:
 
 1. **先征询**：说明我将探测本机 ComfyUI 并提交生成任务，得到同意后再执行；不擅自运行，不擅自安装节点。
 2. **探测**：请求 `http://127.0.0.1:8188/system_stats`（地址可由 `config.local.md` 的 `COMFYUI_URL` 覆盖），或运行 `python scripts/comfy_run.py --probe`。
-3. **已连通**：直接用随附工作流出图，不要改用用户自建工作流，除非用户明确要求。
+3. **已连通**：先探测本地已有工作流，有可用的就用本地的，没有再用随附工作流；随附工作流模型不全时（如缺 turbo 版）可用本地等效方案（如 turboLoRA）。
    - 文生图：`workflows/qwen21-t2i.api.json` —— 人设图、主视觉、文创平面底图。
    - 参考图生图：`workflows/qwen21-edit.api.json` —— 三视图转表情包／海报／文创／视频首帧，最多 16 张参考图。
    - 提交：`python scripts/comfy_run.py --mode t2i|edit --prompt "…" --ref 三视图.png --out 输出路径`
